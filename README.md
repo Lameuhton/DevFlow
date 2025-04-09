@@ -6,6 +6,8 @@ DevFlow est un petit projet personnel créé juste pour m’amuser et tester des
 
 DevFlow est un **tableau de bord moderne pour développeurs** qui combine plusieurs outils utiles dans une interface élégante. L’idée, c’est de rassembler en un seul endroit tout ce qui peut être pratique au quotidien en codant : convertisseur de couleurs (hexadécimal, RGB, HSL), générateur de code CSS pour un dégradé de couleur, JSON Viewer, REGEX Tester, des snippets de code, un Unit Converter(px, rem, em, ...) ainsi qu'un SVG Generator. Tout cela dans un design minimaliste et agréable à utiliser.
 
+💻 [Teste l'outil ici !](https://dev-flow-lac-delta.vercel.app/)
+
 ## 🚀 Stack technique
 
 - **Vite** – Pour un bundling rapide et une configuration simplifiée.
